@@ -6,6 +6,7 @@
 [![JWT](https://img.shields.io/badge/JWT-JJWT%200.12.5-crimson.svg?style=flat-square&logo=jsonwebtokens)](https://jwt.io/)
 [![Vite](https://img.shields.io/badge/Vite-5.2.0-blueviolet.svg?style=flat-square&logo=vite)](https://vitejs.dev/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg?style=flat-square)](https://opensource.org/licenses/MIT)
+
 A robust, modern, and secure full-stack **Contact Management System** that allows users to register, log in, and securely manage their contacts. The application is built with a decoupled architecture featuring a **Spring Boot REST API** backed by a **MySQL Database**, and a highly-responsive **React Single-Page Application (SPA)** built using **Vite**.
 ---
 ## 🌟 Key Features
